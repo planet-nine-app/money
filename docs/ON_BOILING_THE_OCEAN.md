@@ -81,7 +81,7 @@ In a big company you would have a systems architect or two who put together syst
 
 Let me show you some system architecture:
 
-![A very basic system architecture diagram](https://github.com/planet-nine-app/money/docs/system_architecture.png)
+![A very basic system architecture diagram](https://github.com/planet-nine-app/money/blob/main/docs/system_architecture.png)
 
 I'm sure you can see why they make the big bucks.
 
